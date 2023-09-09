@@ -24,12 +24,12 @@ To get started, clone this repository to your local machine:
 
 bash
 
-git clone https://github.com/your_username/ecommerce-website.git
+git clone https://github.com/youssefsadouk/Ecommerce-Website-With-JavaEE.git
 
 Then open the project in your favorite IDE and build it using Maven.
 # How to Use
 
-Once the project is built, deploy it to your application server. The ecommerce website should be accessible at http://localhost:8080/ecommerce-website.
+Once the project is built, deploy it to your application server. The ecommerce website should be accessible at http://localhost:8181.
 
 You can create an account on the website and start browsing products, adding them to your shopping cart, and checking out. The checkout process includes payment integration with PayPal. You can also view your order history and track the status of your orders.
 # Contributing
